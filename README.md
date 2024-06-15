@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![](https://leetcard.jacoblin.cool/user2818GH?width=500&height=220)
+
 <!--
 **rudranshnagar/rudranshnagar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
